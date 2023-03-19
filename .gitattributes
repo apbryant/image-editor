@@ -1,4 +1,1 @@
-LICENSE filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
-image_editor filter=lfs diff=lfs merge=lfs -text
 image_editor/macos-x86_64/image_editor.app/Contents/PlugIns/jdk-17.0.6+10/Contents/Home/lib/modules filter=lfs diff=lfs merge=lfs -text
